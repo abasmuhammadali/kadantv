@@ -14,7 +14,7 @@ Also you can instead use one of these playlists:
 
 - `https://iptv-org.github.io/iptv/index.country.m3u` (grouped by country)
 - `https://iptv-org.github.io/iptv/index.category.m3u` (grouped by category)
-- `https://iptv-org.github.io/iptv/index.language.m3u` (grouped by kadan)
+- `https://iptv-org.github.io/iptv/index.language.m3u` (grouped by language)
 
 Or select one of the playlists from the list below.
 
@@ -55,11 +55,11 @@ Or select one of the playlists from the list below.
 	</tbody>
 </table>
 
-## Playlists by kadan
+## Playlists by language
 
 <table>
 	<thead>
-		<tr><th align="left">kadan</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
+		<tr><th align="left">Language</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
 		<tr><td align="left">Akan</td><td align="right">2</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/aka.m3u</code></td></tr>
