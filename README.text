@@ -62,7 +62,7 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">Language</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Akan</td><td align="right">2</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/aka.m3u</code></td></tr>
+		<tr><td align="left">Akan</td><td align="right">2</td><td align="left"><code>http://abasmuhammadali.github.io/kadaniptv.github.io/tv_channels_Nojdar344_plus.m3u</code></td></tr>
 		<tr><td align="left">Albanian</td><td align="right">22</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/sqi.m3u</code></td></tr>
 		<tr><td align="left">Amharic</td><td align="right">1</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/amh.m3u</code></td></tr>
 		<tr><td align="left">Arabic</td><td align="right">272</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/ara.m3u</code></td></tr>
