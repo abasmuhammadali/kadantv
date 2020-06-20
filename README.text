@@ -140,7 +140,7 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">Country</th><th align="right">Channels</th><th align="left">Playlist</th><th align="left">EPG</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">🇦🇫&nbsp;kurdvip</td><td align="right">6</td><td align="left" nowrap><code>http://krdonline.top:8060/get.php?username=Nojdar344&password=Duhok&type=m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">🇦🇫&nbsp;kurdvip</td><td align="right">6</td><td align="left" nowrap><code>http://abasmuhammadali.github.io/kadaniptv.github.io/tv_channels_Nojdar344_plus.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">🇦🇱&nbsp;Albania</td><td align="right">15</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/al.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">🇩🇿&nbsp;Algeria</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/dz.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">🇦🇩&nbsp;Andorra</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/ad.m3u</code></td><td align="left"></td></tr>
